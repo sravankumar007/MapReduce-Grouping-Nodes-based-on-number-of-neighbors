@@ -1,5 +1,4 @@
 # MapReduce-Grouping-Nodes-based-on-number-of-neighbors
-=================================================================================
 ### This project implements a simple graph algorithm that needs two Map-Reduce jobs. A directed graph is represented as a text file where each line represents a graph edge. 
 
 ### For example,
